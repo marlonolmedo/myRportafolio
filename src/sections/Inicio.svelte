@@ -1,5 +1,5 @@
 <script>
-let src = './src/assets/myphoto.jpeg';
+import src from '../assets/myphoto.jpeg';
 import { Send, ExternalLink, Linkedin, Github } from 'lucide-svelte'
 </script>
 
